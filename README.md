@@ -17,6 +17,8 @@ This web application uses geolocation to track workouts, allowing a user to save
 
 [Link](https://mapty-caitlin-malloch.netlify.app)
 
+https://mapty-caitlin-malloch.netlify.app
+
 Currently hosted by Netlify
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/6fd0aa66-559d-49ca-9885-acf8f897026e/deploy-status)](https://app.netlify.com/sites/mapty-caitlin-malloch/deploys)
