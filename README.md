@@ -29,18 +29,18 @@ Currently hosted by Netlify
 ## UI Preview
 
 Users can place their workout data on the map and a marker will be placed to show where the workout occured and will hold the stats in place.
-![UI Preview 1](./mapty-ui-preview-1.png)
+![UI Preview 1](./images/mapty-ui-preview-1.png)
 
 There are several fields of workout stats that can be entered by the user, depending on the workout type.
-![UI Preview 2](./mapty-ui-preview-2.png)
+![UI Preview 2](./images/mapty-ui-preview-2.png)
 
 ## Build Specs
 
 This is a final overview of the arhitecture of the Mapty application. The learning objective for this project is using OOP with JavaScript and becoming familiar with class polymorphism.
-![Architecture Flowchart](./Mapty-architecture-final.png)
+![Architecture Flowchart](./images/Mapty-architecture-final.png)
 
 This is the flowchart used in design to build features.
-![Feature Flowchart](./Mapty-flowchart.png)
+![Feature Flowchart](./images/Mapty-flowchart.png
 
 ## Developer
 
