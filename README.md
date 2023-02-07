@@ -40,7 +40,7 @@ This is a final overview of the arhitecture of the Mapty application. The learni
 ![Architecture Flowchart](./images/Mapty-architecture-final.png)
 
 This is the flowchart used in design to build features.
-![Feature Flowchart](./images/Mapty-flowchart.png
+![Feature Flowchart](./images/Mapty-flowchart.png)
 
 ## Developer
 
