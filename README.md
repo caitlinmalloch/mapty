@@ -1,5 +1,7 @@
 # Mapty
 
+![Mapty](./images/logo.png)
+
 This web application uses geolocation to track workouts, allowing a user to save the distance and other stats from their workout in the application.
 
 ## Features
